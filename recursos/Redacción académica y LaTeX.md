@@ -9,6 +9,7 @@
 ## Documentación
 
 - **[Documentación de Overleaf](https://www.overleaf.com/learn)**: guías oficiales de LaTeX del editor colaborativo Overleaf.
+- **[TikZ](https://tikz.dev/):** Crear elementos gráficos para latex, también puede ser usado en obsidian. 
 
 ## Descargar libros y consultar autores
 

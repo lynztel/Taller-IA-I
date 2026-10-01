@@ -13,6 +13,8 @@
 ## Markdown
 
 - **[Guía de sintaxis básica](https://www.markdownguide.org/basic-syntax/)**: cómo se escriben encabezados, listas, negritas y enlaces en Markdown.
+- **[Mermaid](https://mermaid.js.org/):** Crear diagramas y gráficos dinámicos utilizando texto plano y una sintaxis inspirada en Markdown.
+- **[TikZ](https://tikz.dev/):** Crear elementos gráficos para latex, también puede ser usado en obsidian. 
 - **[Plantillas para Obsidian](https://github.com/llZektorll/OB_Template/tree/main)**: plantillas de nota ya armadas, para quien quiera que sus notas se vean más cuidadas.
 
 
