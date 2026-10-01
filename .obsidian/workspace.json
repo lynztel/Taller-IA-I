@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "921d32165e05fc2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80b322088278ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00e1f31bfd6c964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Laboratorio de tokens y modelos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laboratorio de tokens y modelos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a15667a99e87c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f570e7f050ca5c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37222d088030e1a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8feb010814c00eff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9c98b6a857922ce6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "b97a993ab28dae94",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96147420726dd28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe056536ee9910fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recursos/Inteligencia artificial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "dd0b182a90dc67bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recursos/Inteligencia artificial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "f7d870a607d93970",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "bd48f45c603d5eae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "135eba027aa93d26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recursos/Inteligencia artificial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "ab22d82d1a4bddd1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Importar notas": false
+    }
+  },
+  "active": "d00e1f31bfd6c964",
+  "lastOpenFiles": [
+    "Recursos/MCP's y Skills.md",
+    "Recursos/Recursos Creación de Contenido.md",
+    "Recursos/Redacción académica y LaTeX.md",
+    "Recursos/Inteligencia artificial.md",
+    "Contenido/Módulo I - GIt & MD/Comandos básicos.md",
+    "Contenido/Módulo I - GIt & MD/Git.md",
+    "Contenido/Módulo I - GIt & MD/Recuperar versiones.md",
+    "Contenido/Módulo I - GIt & MD/Markdown.md",
+    "Contenido/Módulo I - GIt & MD/Github.md",
+    "Contenido/Módulo V. De la representación a la especificación/SDD (Spec Driven Development).md",
+    "Contenido/Módulo II. Fundamentos de IA e instrucciones/Sin título.md",
+    "Contenido/Módulo III Herramientas, agentes, MCP y Skills/Sin título.md",
+    "Contenido/Módulo IV Pensamiento computacional y representación visual/Fundamentos.md",
+    "Contenido/Módulo V. De la representación a la especificación/TDD.md",
+    "Contenido/Módulo V. De la representación a la especificación/BDD.md",
+    "Contenido/Módulo V. De la representación a la especificación/Harness.md",
+    "Contenido/Módulo V. De la representación a la especificación",
+    "Contenido/Módulo IV Pensamiento computacional y representación visual",
+    "Contenido/Módulo III Herramientas, agentes, MCP y Skills",
+    "Contenido/Módulo II. Fundamentos de IA e instrucciones",
+    "Recursos/Git, GitHub y Markdown.md",
+    "Recursos/Laboratorio de tokens y modelos.md",
+    "Recursos/Desarrollo y entornos.md",
+    "Excalidraw/Drawing 2026-09-13 15.25.02.excalidraw.md",
+    "Excalidraw",
+    "2026-09-13.md",
+    "Recursos/Índice de recursos del taller.md",
+    "Recursos/Herramientas para las prácticas.md",
+    "Contenido/Módulo II",
+    "Contenido/Módulo I - GIt & MD",
+    "Contenido",
+    "Sin título.md",
+    "Sin título.canvas",
+    "Excalidraw/Drawing 2026-09-13 01.55.04.excalidraw.md",
+    "Recursos/Registro de enlaces.md",
+    "Recursos"
+  ]
+}
