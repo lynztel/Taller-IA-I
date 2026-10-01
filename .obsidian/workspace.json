@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Laboratorio de tokens y modelos.md",
+                "file": "Contenido/Módulo I - GIt & MD/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laboratorio de tokens y modelos"
+              "title": "Git"
             }
           }
         ]
@@ -179,9 +179,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "017e7ed48ea408d0",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,17 +210,20 @@
       "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-importer:Importar notas": false
+      "obsidian-importer:Importar notas": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "d00e1f31bfd6c964",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Contenido/Módulo I - GIt & MD/Git.md",
+    "Recursos/Laboratorio de tokens y modelos.md",
     "Recursos/MCP's y Skills.md",
     "Recursos/Recursos Creación de Contenido.md",
     "Recursos/Redacción académica y LaTeX.md",
     "Recursos/Inteligencia artificial.md",
     "Contenido/Módulo I - GIt & MD/Comandos básicos.md",
-    "Contenido/Módulo I - GIt & MD/Git.md",
     "Contenido/Módulo I - GIt & MD/Recuperar versiones.md",
     "Contenido/Módulo I - GIt & MD/Markdown.md",
     "Contenido/Módulo I - GIt & MD/Github.md",
@@ -226,7 +239,6 @@
     "Contenido/Módulo III Herramientas, agentes, MCP y Skills",
     "Contenido/Módulo II. Fundamentos de IA e instrucciones",
     "Recursos/Git, GitHub y Markdown.md",
-    "Recursos/Laboratorio de tokens y modelos.md",
     "Recursos/Desarrollo y entornos.md",
     "Excalidraw/Drawing 2026-09-13 15.25.02.excalidraw.md",
     "Excalidraw",
@@ -236,7 +248,6 @@
     "Contenido/Módulo II",
     "Contenido/Módulo I - GIt & MD",
     "Contenido",
-    "Sin título.md",
     "Sin título.canvas",
     "Excalidraw/Drawing 2026-09-13 01.55.04.excalidraw.md",
     "Recursos/Registro de enlaces.md",
