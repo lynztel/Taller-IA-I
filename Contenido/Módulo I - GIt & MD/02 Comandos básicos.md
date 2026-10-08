@@ -30,7 +30,7 @@ git init
 >
 > - **`master`** es el nombre que Git usa históricamente para la rama inicial. Según su documentación, `git init` todavía crea `master` por defecto, y ese valor cambiará a `main` cuando se publique Git 3.0.
 > - **`main`** es el nombre que GitHub asigna a los repositorios **nuevos** desde el 1 de octubre de 2020. Los repositorios existentes no cambiaron.
-> - Consecuencia práctica: un repositorio creado con `git init` puede tener `master` en local mientras GitHub espera `main`. Por eso en [[Github]] se ejecuta `git branch -M main` antes del primer `push`.
+> - Consecuencia práctica: un repositorio creado con `git init` puede tener `master` en local mientras GitHub espera `main`. Por eso en [[03 Github]] se ejecuta `git branch -M main` antes del primer `push`.
 >
 > ```bash
 > git branch --show-current                      # ¿cómo se llama tu rama actual?
@@ -92,7 +92,7 @@ git init
     - `git checkout main` (o `master`, según el nombre de tu rama principal): vuelve a la punta de la rama principal y restaura los archivos a su versión de desarrollo más reciente.
 
 > [!tip] Profundiza
-> El detalle de cómo regresar a versiones anteriores y deshacer cambios está en [[Recuperar versiones]].
+> El detalle de cómo regresar a versiones anteriores y deshacer cambios está en [[04 Recuperar versiones]].
 
 ## 8. `git config`
 
@@ -111,6 +111,6 @@ git init
 
 ## Siguiente
 
-Para conectar tu repositorio local con la nube, continúa con [[Github]]. Referencia oficial de comandos: [[Git, GitHub y Markdown]].
+Para conectar tu repositorio local con la nube, continúa con [[03 Github]]. Referencia oficial de comandos: [[Git, GitHub y Markdown]].
 
-← [[Módulo I - Índice]]
+← [[00 Módulo I - Índice]]

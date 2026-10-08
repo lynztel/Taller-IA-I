@@ -10,7 +10,7 @@ aliases:
 ---
 
 > [!info] Qué resuelve esta nota
-> Git conserva todo el historial, así que casi siempre se puede volver atrás. Esta nota agrupa los comandos según **qué quieres deshacer**: inspeccionar el pasado, descartar cambios sin commit o deshacer commits ya hechos. Requiere conocer [[Comandos básicos]].
+> Git conserva todo el historial, así que casi siempre se puede volver atrás. Esta nota agrupa los comandos según **qué quieres deshacer**: inspeccionar el pasado, descartar cambios sin commit o deshacer commits ya hechos. Requiere conocer [[02 Comandos básicos]].
 
 ## 1. Inspección del historial
 
@@ -50,7 +50,7 @@ aliases:
 > git reset --hard HEAD@{1}   # vuelve al estado previo al reset (o usa el hash que muestre el reflog)
 > ```
 >
-> El `reflog` es local y sus entradas caducan (por defecto, a los 30 o 90 días según el caso), por lo que no sustituye a un respaldo en [[Github]].
+> El `reflog` es local y sus entradas caducan (por defecto, a los 30 o 90 días según el caso), por lo que no sustituye a un respaldo en [[03 Github]].
 
 > [!warning] Reescribir historia en repositorios compartidos
 > `git reset` mueve la rama hacia atrás y cambia el historial. Si ya hiciste `push`, otras personas pueden quedar con commits que ya no existen en tu rama. En ese caso usa `git revert`.
@@ -66,6 +66,6 @@ aliases:
 
 ## Siguiente
 
-Con el historial local dominado, continúa con [[Github]] para respaldarlo en la nube.
+Con el historial local dominado, continúa con [[03 Github]] para respaldarlo en la nube.
 
-← [[Módulo I - Índice]]
+← [[00 Módulo I - Índice]]

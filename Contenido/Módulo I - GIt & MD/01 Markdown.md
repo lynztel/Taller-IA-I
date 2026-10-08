@@ -33,7 +33,7 @@ Permite redactar documentos con jerarquía y estilo visual sin editores visuales
 
 - **Legibilidad en crudo:** un archivo Markdown se lee de inmediato en cualquier editor de texto plano, sin que las etiquetas estorben (a diferencia de HTML o LaTeX).
 - **Velocidad de escritura:** estilos, enlaces y estructuras sin separar las manos del teclado ni usar menús flotantes.
-- **Control de versiones amigable:** al ser texto sin formato binario, Git registra los cambios línea por línea de forma exacta y sin metadatos opacos. Ver [[Comandos básicos]].
+- **Control de versiones amigable:** al ser texto sin formato binario, Git registra los cambios línea por línea de forma exacta y sin metadatos opacos. Ver [[02 Comandos básicos]].
 - **Portabilidad y longevidad:** no depende de software propietario ni se vuelve obsoleto por incompatibilidad de versiones. Con motores de conversión como Pandoc, un `.md` se exporta a PDF, HTML, EPUB o DOCX.
 
 ## Sintaxis básica
@@ -119,6 +119,6 @@ Se estructuran con barras verticales (`|`) y guiones (`-`):
 
 ## Siguiente
 
-Con Markdown dominado, el siguiente paso es versionar tus notas: [[Comandos básicos]]. Para enlaces de apoyo (guía de sintaxis, Mermaid, TikZ y plantillas) consulta [[Git, GitHub y Markdown]].
+Con Markdown dominado, el siguiente paso es versionar tus notas: [[02 Comandos básicos]]. Para enlaces de apoyo (guía de sintaxis, Mermaid, TikZ y plantillas) consulta [[Git, GitHub y Markdown]].
 
-← [[Módulo I - Índice]]
+← [[00 Módulo I - Índice]]

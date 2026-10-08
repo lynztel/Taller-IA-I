@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d00e1f31bfd6c964",
+            "id": "c3ad90d2614526fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contenido/Módulo I - GIt & MD/Git.md",
+                "file": "Contenido/Módulo I - GIt & MD/02 Comandos básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "02 Comandos básicos"
             }
           }
         ]
@@ -176,8 +176,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -203,54 +203,55 @@
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "obsidian-importer:Importar notas": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d00e1f31bfd6c964",
+  "active": "c3ad90d2614526fc",
   "lastOpenFiles": [
-    "Sin título.md",
-    "Contenido/Módulo I - GIt & MD/Git.md",
-    "Recursos/Laboratorio de tokens y modelos.md",
-    "Recursos/MCP's y Skills.md",
-    "Recursos/Recursos Creación de Contenido.md",
-    "Recursos/Redacción académica y LaTeX.md",
-    "Recursos/Inteligencia artificial.md",
-    "Contenido/Módulo I - GIt & MD/Comandos básicos.md",
-    "Contenido/Módulo I - GIt & MD/Recuperar versiones.md",
-    "Contenido/Módulo I - GIt & MD/Markdown.md",
-    "Contenido/Módulo I - GIt & MD/Github.md",
-    "Contenido/Módulo V. De la representación a la especificación/SDD (Spec Driven Development).md",
-    "Contenido/Módulo II. Fundamentos de IA e instrucciones/Sin título.md",
-    "Contenido/Módulo III Herramientas, agentes, MCP y Skills/Sin título.md",
-    "Contenido/Módulo IV Pensamiento computacional y representación visual/Fundamentos.md",
-    "Contenido/Módulo V. De la representación a la especificación/TDD.md",
-    "Contenido/Módulo V. De la representación a la especificación/BDD.md",
-    "Contenido/Módulo V. De la representación a la especificación/Harness.md",
+    "Contenido/Módulo I - GIt & MD/04 Recuperar versiones.md",
+    "Contenido/Módulo I - GIt & MD/03 Github.md",
+    "Contenido/Módulo I - GIt & MD/02 Comandos básicos.md",
+    "Contenido/Módulo I - GIt & MD/01 Markdown.md",
+    "Contenido/Módulo I - GIt & MD/00 Módulo I - Índice.md",
+    "presentaciones/Módulo I.pdf",
+    "Contenido/Módulo II - Fundamentos de IA/14 Orquestación de agentes.md",
+    "Contenido/Módulo II - Fundamentos de IA/12 Chat y agente.md",
+    "Contenido/Módulo II - Fundamentos de IA/03 Cómo se construye un modelo.md",
+    "Contenido/Módulo II - Fundamentos de IA/02 Modelo, aplicación y agente.md",
+    "Contenido/Módulo II - Fundamentos de IA/01 Historia de la IA.md",
+    "Contenido/Módulo II - Fundamentos de IA/00 Módulo II - Índice.md",
+    "Contenido/Módulo II - Fundamentos de IA/06 Transformer y atención.md",
+    "Contenido/Módulo II - Fundamentos de IA/05 Pesos y parámetros.md",
+    "Contenido/Módulo II - Fundamentos de IA/04 Tokens e incrustaciones.md",
+    "Contenido/Módulo II - Fundamentos de IA/19 Práctica - Reescribir una instrucción.md",
+    "Contenido/Módulo II - Fundamentos de IA/18 Plantilla y recursos para escribir instrucciones.md",
+    "Contenido/Módulo II - Fundamentos de IA/16 Segundo cerebro y PARA.md",
+    "Contenido/Módulo II - Fundamentos de IA/13 Pruebas de referencia.md",
+    "Contenido/Módulo II - Fundamentos de IA/18 Plantilla y recursos de prompting.md",
+    "Contenido/Módulo II - Fundamentos de IA/17 Anatomía de una instrucción.md",
+    "Contenido/Módulo II - Fundamentos de IA/16 Second Brain y PARA.md",
+    "Contenido/Módulo II - Fundamentos de IA/15 Contexto en documentos.md",
+    "Contenido/Módulo II - Fundamentos de IA/13 Benchmarks.md",
+    "Contenido/Módulo II - Fundamentos de IA/11 Tipos de modelo.md",
+    "Contenido/Módulo II - Fundamentos de IA/10 Alucinaciones.md",
+    "Contenido/Módulo II - Fundamentos de IA/09 Ventana de contexto.md",
     "Contenido/Módulo V. De la representación a la especificación",
     "Contenido/Módulo IV Pensamiento computacional y representación visual",
     "Contenido/Módulo III Herramientas, agentes, MCP y Skills",
     "Contenido/Módulo II. Fundamentos de IA e instrucciones",
-    "Recursos/Git, GitHub y Markdown.md",
-    "Recursos/Desarrollo y entornos.md",
-    "Excalidraw/Drawing 2026-09-13 15.25.02.excalidraw.md",
     "Excalidraw",
-    "2026-09-13.md",
-    "Recursos/Índice de recursos del taller.md",
-    "Recursos/Herramientas para las prácticas.md",
     "Contenido/Módulo II",
     "Contenido/Módulo I - GIt & MD",
     "Contenido",
     "Sin título.canvas",
-    "Excalidraw/Drawing 2026-09-13 01.55.04.excalidraw.md",
-    "Recursos/Registro de enlaces.md",
     "Recursos"
   ]
 }

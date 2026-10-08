@@ -14,10 +14,10 @@ aliases:
 
 ## Orden de lectura
 
-1. [[Markdown]]: sintaxis básica y por qué es el formato preferido para trabajar con modelos de lenguaje.
-2. [[Comandos básicos]]: `init`, `status`, `add`, `commit`, `log`, `diff`, `checkout` y `config`.
-3. [[Recuperar versiones]]: inspeccionar el historial, descartar cambios y deshacer commits.
-4. [[Github]]: conectar tu repositorio local a la nube por SSH o HTTPS.
+1. [[01 Markdown]]: sintaxis básica y por qué es el formato preferido para trabajar con modelos de lenguaje.
+2. [[02 Comandos básicos]]: `init`, `status`, `add`, `commit`, `log`, `diff`, `checkout` y `config`.
+3. [[04 Recuperar versiones]]: inspeccionar el historial, descartar cambios y deshacer commits.
+4. [[03 Github]]: conectar tu repositorio local a la nube por SSH o HTTPS.
 
 ## Mapa del flujo
 

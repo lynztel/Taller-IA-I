@@ -19,10 +19,10 @@ aliases:
 - **Trazabilidad y gestión:** integra seguimiento de incidencias (*issues*), tableros de gestión de proyectos y automatización de flujos de trabajo (*GitHub Actions / CI/CD*).
 
 > [!warning] El historial remoto no es inmutable
-> Que GitHub guarde una copia no significa que no se pueda alterar. Un `git push --force` desde un clon local puede **sobrescribir** el historial de la rama remota y hacer desaparecer commits. En repositorios compartidos conviene activar la protección de ramas (*branch protection rules*) para bloquear los *force push* sobre `main`. Ver también [[Recuperar versiones]].
+> Que GitHub guarde una copia no significa que no se pueda alterar. Un `git push --force` desde un clon local puede **sobrescribir** el historial de la rama remota y hacer desaparecer commits. En repositorios compartidos conviene activar la protección de ramas (*branch protection rules*) para bloquear los *force push* sobre `main`. Ver también [[04 Recuperar versiones]].
 
 > [!note] Requisito previo
-> Para subir un proyecto necesitas un repositorio local con al menos un commit. Ver [[Comandos básicos]].
+> Para subir un proyecto necesitas un repositorio local con al menos un commit. Ver [[02 Comandos básicos]].
 
 ---
 
@@ -77,7 +77,7 @@ git push -u origin main
 ```
 
 > [!note] ¿Por qué `git branch -M main`?
-> `-M` renombra (y fuerza el renombrado de) la rama actual a `main`. Se usa porque `git init` puede haber creado la rama como `master`, mientras que los repositorios nuevos de GitHub usan `main`. Si tu rama ya se llama `main`, el comando no cambia nada. Detalle en [[Comandos básicos]] (nota sobre `main` y `master`).
+> `-M` renombra (y fuerza el renombrado de) la rama actual a `main`. Se usa porque `git init` puede haber creado la rama como `master`, mientras que los repositorios nuevos de GitHub usan `main`. Si tu rama ya se llama `main`, el comando no cambia nada. Detalle en [[02 Comandos básicos]] (nota sobre `main` y `master`).
 
 ---
 
@@ -153,6 +153,6 @@ Branch 'main' set up to track remote branch 'main'
 
 ## Siguiente
 
-Si algo sale mal después de subir cambios, revisa [[Recuperar versiones]]. Enlaces útiles: [[Git, GitHub y Markdown]].
+Si algo sale mal después de subir cambios, revisa [[04 Recuperar versiones]]. Enlaces útiles: [[Git, GitHub y Markdown]].
 
-← [[Módulo I - Índice]]
+← [[00 Módulo I - Índice]]
