@@ -214,8 +214,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c3ad90d2614526fc",
+  "active": "37222d088030e1a4",
   "lastOpenFiles": [
+    "presentaciones/Módulo II.pptx",
+    "presentaciones/Modulo2.pptx",
     "Contenido/Módulo I - GIt & MD/04 Recuperar versiones.md",
     "Contenido/Módulo I - GIt & MD/03 Github.md",
     "Contenido/Módulo I - GIt & MD/02 Comandos básicos.md",
@@ -242,7 +244,6 @@
     "Contenido/Módulo II - Fundamentos de IA/13 Benchmarks.md",
     "Contenido/Módulo II - Fundamentos de IA/11 Tipos de modelo.md",
     "Contenido/Módulo II - Fundamentos de IA/10 Alucinaciones.md",
-    "Contenido/Módulo II - Fundamentos de IA/09 Ventana de contexto.md",
     "Contenido/Módulo V. De la representación a la especificación",
     "Contenido/Módulo IV Pensamiento computacional y representación visual",
     "Contenido/Módulo III Herramientas, agentes, MCP y Skills",
@@ -251,7 +252,6 @@
     "Contenido/Módulo II",
     "Contenido/Módulo I - GIt & MD",
     "Contenido",
-    "Sin título.canvas",
-    "Recursos"
+    "Sin título.canvas"
   ]
 }
